@@ -1,7 +1,7 @@
 # Mathematics
 
 ## 高等数学
-
+- [【高数微积分】通俗易懂的微积分课](https://www.bilibili.com/video/BV19p4y1C72K)
 - [《高等数学》同济版 全程教学视频（宋浩老师）](https://www.bilibili.com/video/BV1Eb411u7Fw)
 - [【梨米特】同济七版《高等数学》全程教学视频｜纯干货知识点解析，应该是全网最细｜微积分 | 高数](https://www.bilibili.com/video/BV1864y1T7Ks)
 - [【收藏版】《高等数学》精讲课程全集 | 姑姑主讲 | 高数叔](https://www.bilibili.com/video/BV1mz4y127ue)
