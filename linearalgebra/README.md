@@ -3,7 +3,8 @@
 ## [AI 线性代数](https://zglg.work/ai-linear-you-need)
 
 - [x] [1. 线性代数的基本概念](AI/1.ipynb)
-- [ ] [2. 线性代数的重要性](AI/2.ipynb)
+- [x] [2. 线性代数的重要性](AI/2.ipynb)
+- [x] [3. 向量的定义与表示](AI/3.ipynb)
 
 ## 视频教程笔记
 
