@@ -1,5 +1,8 @@
 # 线性代数💡
 
+## Note on Linear Algebra and Its Application
+
+
 ## [AI 线性代数](https://zglg.work/ai-linear-you-need)
 
 - [x] [1. 线性代数的基本概念](AI/1.ipynb)
